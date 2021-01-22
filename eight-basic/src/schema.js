@@ -30,7 +30,7 @@ export default {
     componentName: 'Form.Item',
     props: {
       wrapperCol: { offset: 8, span: 8 },
-      name='remember',
+      name:'remember',
       valuePropName: 'checked'
     },
     children: [{
